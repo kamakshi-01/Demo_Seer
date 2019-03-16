@@ -1,9 +1,9 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=300px src="./seer.png" alt="Seer_logo"></a>
+ <img width=200px src="./seer.png" alt="Seer_logo"></a>
 </p>
 
-<h3 align="center">Styling on the Go</h3>
+<h2 align="center">Styling on the Go</h2>
 
 <div align="center">
 
