@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=300px src="./assets/Briefly.png" alt="Seer_logo"></a>
+ <img width=300px src="./transparent_logo.png" alt="Seer_logo"></a>
 </p>
 
 <h3 align="center">Styling on the Go</h3>
