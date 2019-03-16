@@ -2,7 +2,7 @@
   <a href="" rel="noopener">
  <img width=300px src="./transparent_logo.png" alt="Seer_logo"></a>
 </p>
-
+<h2 align="center"><i>SEER</h2>
 <h3 align="center">Styling on the Go</h3>
 
 <div align="center">
