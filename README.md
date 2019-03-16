@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=300px src="./transparent_logo.png" alt="Seer_logo"></a>
+ <img width=300px src="./seer.png" alt="Seer_logo"></a>
 </p>
 
 <h1 align="center" font-color="blue"><b>SEER</h1>
