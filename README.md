@@ -22,13 +22,10 @@
 ------------------------------------------
 ### Features
 
-- `Subscriptions` for a news source
-- `Bookmark` an article
-- `Summarize` an source article or a url
-- Browse across ~ 255 preffered source listed [here](./App/sources.csv)
-- Featured Article as per all user reaction ( Also an Add-Ons )
-- `Night-Mode` for better readiblity
-- Subscribe to your favorite source using `chatbot` and read it on your own comfort from the `web-app`
+- `Capture` any apparel you love
+- Browse across ~ 255 preffered sources listed [here](./App/scrape_data.csv)
+- `Get Recommendation` for affordable option of the same look
+
 
 <div align="center">
 
