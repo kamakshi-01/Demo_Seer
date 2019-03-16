@@ -3,7 +3,6 @@
  <img width=300px src="./seer.png" alt="Seer_logo"></a>
 </p>
 
-<h1 align="center" font-color="blue"><b>SEER</h1>
 <h3 align="center">Styling on the Go</h3>
 
 <div align="center">
