@@ -18,7 +18,7 @@
 ### Features
 
 - `Capture` any apparel you love
-- Browse across various preffered sources listed [here](https://github.com/DevashishJoshi/Seer/tree/master/example%20csv%20files)
+- Browse across various preffered sources listed [here](https://github.com/kamakshi-01/Demo_Seer/tree/master/example%20csv%20files)
 - `Get Recommendation` for affordable option of the same look
 
 
